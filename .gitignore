@@ -12,3 +12,4 @@ node_modules
 *.pyc
 __pycache__
 *.swp
+tensorflow_inception_stripped.pb
